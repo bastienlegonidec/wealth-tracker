@@ -313,7 +313,7 @@
           "id": "av-lcl-fonds-euros",
           "name": "Support Euro LCL Vie",
           "assetClass": "BONDS",
-          "geography": ["UNKNOWN"],
+          "geography": ["EUROPE"],
           "quantity": 1,
           "currency": "EUR",
           "currentValue": 23606.42,
